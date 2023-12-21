@@ -1,4 +1,4 @@
-token = "6815594086:AAFmwexlJBjfNt8xinJKVhUz2613ND2opX0"
+token = ""
 
 help_text = """
 /start - Обычное приветствие
